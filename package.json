@@ -1,19 +1,24 @@
 {
-    "name": "megaquant-monokai",
-    "displayName": "MegaQuant Monokai",
-    "description": "Custom Monokai Pro inspired theme for MegaQuant",
+    "name": "inspired-theme",
+    "displayName": "Tarpit Theme",
+    "description": "A dark theme inspired by Monokai Pro (Filter Spectrum), featuring a deep charcoal background with vivid, carefully tuned syntax colors.",
     "version": "1.0.0",
-    "publisher": "megaquant",
+    "publisher": "tarpit",
     "engines": {
         "vscode": "^1.70.0"
     },
     "categories": [
         "Themes"
     ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/isatiso/tarpit-theme"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "MegaQuant Monokai",
+                "label": "Tarpit Spectrum",
                 "uiTheme": "vs-dark",
                 "path": "./themes/monokai.json"
             }
