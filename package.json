@@ -1,0 +1,22 @@
+{
+    "name": "megaquant-monokai",
+    "displayName": "MegaQuant Monokai",
+    "description": "Custom Monokai Pro inspired theme for MegaQuant",
+    "version": "1.0.0",
+    "publisher": "megaquant",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MegaQuant Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai.json"
+            }
+        ]
+    }
+}
