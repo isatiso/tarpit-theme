@@ -2,7 +2,7 @@
     "name": "inspired-theme",
     "displayName": "Tarpit Theme",
     "description": "A dark theme inspired by Monokai Pro (Filter Spectrum), featuring a deep charcoal background with vivid, carefully tuned syntax colors.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "tarpit",
     "engines": {
         "vscode": "^1.70.0"
