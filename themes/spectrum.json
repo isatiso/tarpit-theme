@@ -612,6 +612,14 @@
             "foreground": "#5ad4e6",
             "italic": false
         },
+        "class.typeHint": {
+            "foreground": "#948ae3",
+            "italic": false
+        },
+        "class.typeHint.builtin": {
+            "foreground": "#948ae3",
+            "italic": true
+        },
         "interface": "#948ae3",
         "enum": "#5ad4e6",
         "enumMember": "#948ae3",
@@ -626,12 +634,14 @@
         "method.declaration": "#7bd88f",
         "macro": "#7bd88f",
         "variable": "#5ad4e6",
+        "variable:python": "#f7f1ff",
         "variable.local": "#f7f1ff",
         "variable.local.readonly": "#f7f1ff",
         "variable.local.declaration": "#f7f1ff",
         "variable.local.declaration.readonly": "#f7f1ff",
         "variable.readonly": "#948ae3",
         "variable.declaration": "#5ad4e6",
+        "variable.declaration:python": "#f7f1ff",
         "variable.declaration.readonly": "#948ae3",
         "variable.defaultLibrary": "#5ad4e6",
         "parameter": {
@@ -665,7 +675,7 @@
             "italic": true
         },
         "selfParameter": {
-            "foreground": "#bab6c0",
+            "foreground": "#e14dff",
             "italic": true
         },
         "builtinType": {
