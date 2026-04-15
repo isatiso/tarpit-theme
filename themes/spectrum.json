@@ -604,8 +604,14 @@
         "widget.shadow": "#131313"
     },
     "semanticTokenColors": {
-        "class": "#5ad4e6",
-        "class.declaration": "#5ad4e6",
+        "class": {
+            "foreground": "#5ad4e6",
+            "italic": false
+        },
+        "class.declaration": {
+            "foreground": "#5ad4e6",
+            "italic": false
+        },
         "interface": "#948ae3",
         "enum": "#5ad4e6",
         "enumMember": "#948ae3",
