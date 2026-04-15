@@ -644,7 +644,7 @@
         "property.readonly.declaration": "#5ad4e6",
         "keyword": "#fc618d",
         "modifier": {
-            "foreground": "#fc618d",
+            "foreground": "#e14dff",
             "italic": true
         },
         "number": "#948ae3",
@@ -661,6 +661,10 @@
             "italic": true
         },
         "selfKeyword": {
+            "foreground": "#bab6c0",
+            "italic": true
+        },
+        "selfParameter": {
             "foreground": "#bab6c0",
             "italic": true
         },
